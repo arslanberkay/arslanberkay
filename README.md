@@ -49,9 +49,12 @@
 
  <h3>🌐 Teknolojiler ve Uygulama Çatıları   </h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET Core"/>
-  <img src="https://skillicons.dev/icons?i=aspnet" height="40" alt="ASP.NET Core MVC"/>
-  <img src="https://skillicons.dev/icons?i=webapi" height="40" alt="ASP.NET Core Web API"/>
+  <img src="https://img.shields.io/badge/.NET Core-lightgrey?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/ASP.NET Core MVC-blueviolet?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/ASP.NET Core Web API-green?style=for-the-badge" height="40"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=""/>
+  <img src="https://skillicons.dev/icons?i=aspnet" height="40" alt=""/>
+  <img src="https://skillicons.dev/icons?i=webapi" height="40" alt=""/>
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="ASP.NET Core Minimal API"/>
   <img src="https://skillicons.dev/icons?i=ef" height="40" alt="Entity Framework Core"/>
   <img src="https://skillicons.dev/icons?i=linqpad" height="40" alt="LINQ"/>
