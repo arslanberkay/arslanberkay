@@ -27,7 +27,7 @@
 <!-- Database -->
 <h3>🗄️ Veritabanı Teknolojileri </h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=mssql" height="40" alt="MSSQL"/>
+  <img src="https://img.shields.io/badge/MSSQL-red?style=for-the-badge" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis"/>
@@ -60,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap 5"/>
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jQuery"/>
-  <img src="https://skillicons.dev/icons?i=fetch" height="40" alt="Fetch API"/>
+  <img src="https://img.shields.io/badge/Fetch API-red?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/AJAX-yellowgreen?style=for-the-badge" height="40"/>
 </p>
 
