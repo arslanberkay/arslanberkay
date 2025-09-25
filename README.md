@@ -1,13 +1,15 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A7C86,100:512BD4&height=140&section=header&text=Berkay%20Arslan&fontColor=ffffff&fontSize=42&fontAlignY=32" />
 
-<h1 align="center">Merhaba 👋, Ben Berkay Arslan</h1>
-<h3 align="center">🎓 Matematik Mezunu | 💻 Full-Stack .NET Developer</h3>
+<h1 align="center">Merhaba, Ben Berkay Arslan</h1>
+<h3 align="center">💻 Full-Stack .NET Developer | 🎓 Gazi Matematik Bölüm Birinciliği (GNO : 3.41)  </h3>
 
 <p align="center">
-📐 Matematiksel düşünceyi yazılımla birleştiriyorum.<br>
-🚀 Modern ve ölçeklenebilir yazılım projeleri geliştiriyorum.<br>
-📫 Bana ulaşın: <b>berkayarslan.dev@gmail.com</b>
+📐 Matematikte edindiğim analitik düşünme ve problem çözme becerilerini yazılım geliştirmeye aktararak bu
+ alanda yoluma devam ediyorum. Yeni teknolojilere hızla adapte olabilen, takım çalışmasına yatkın, gelişime
+ açık, yenilikçi ve çözüm odaklı bir yazılım geliştiricisiyim.  <br>
+  🎯 Hedefim, öğrenerek ve üreterek yazılım dünyasında kendimi daha da ileriye taşımak. <br>
+📫 Bana ulaşın: <b>arslanberkay18@gmail.com</b>
 </p>
 
 ---
@@ -15,52 +17,64 @@
 <h2 align="left">🛠️ Kullandığım Teknolojiler</h2>
 
 <!-- Backend -->
-<h3>⚙️ Backend</h3>
+<h3>⚙️ Programlama Dilleri</h3>
 <p>
-  <img height="36" src="https://skillicons.dev/icons?i=cs" title="C#" />
-  <img height="36" src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
-  <img height="36" src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
 </p>
 
-<!-- Frontend -->
-<h3>🌐 Frontend</h3>
-<p>
-  <img height="36" src="https://skillicons.dev/icons?i=html" title="HTML" />
-  <img height="36" src="https://skillicons.dev/icons?i=css" title="CSS" />
-  <img height="36" src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img height="36" src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
-</p>
 
 <!-- Database -->
-<h3>🗄️ Veritabanı</h3>
+<h3>🗄️ Veritabanı Teknolojileri </h3>
 <p>
-  <img height="36" src="https://skillicons.dev/icons?i=mssql" title="MSSQL" />
-  <img height="36" src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img height="36" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mssql" height="40" alt="MSSQL"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis"/>
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" alt="ElasticSearch"/>
 </p>
 
 <!-- Tools -->
-<h3>🔧 Araçlar</h3>
+<h3>🔧 Araçlar & Platformlar </h3>
 <p>
-  <img height="36" src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Visual Studio Code"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure DevOps"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
 </p>
 
----
+### 🌐 Teknolojiler ve Uygulama Çatıları  
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET Core"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap 5"/>
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jQuery"/>
+</p>
 
-<h2 align="left">📊 İstatistikler</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BerkayArslan&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayArslan&layout=compact&theme=radical" height="160" />
-</div>
+### 🔹 Yazılım Mimarisi & Tasarım  
+<p>
+  <img src="https://img.shields.io/badge/OOP-SOLID-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Design%20Patterns-Repository%2C%20Unit%20Of%20Work%2C%20Mediator-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Katmanlı%20Mimari-Architecture-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT%20%26%20Cookie-Authentication-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RESTful-API-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile-Scrum-red?style=for-the-badge"/>
+</p>
 
----
+### 🔹 Kütüphaneler  
+<p>
+  <img src="https://img.shields.io/badge/IMemoryCache-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Serilog-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLog-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FluentValidation-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AutoMapper-yellowgreen?style=for-the-badge"/>
+</p>
 
-<h2 align="center">🐍 Katkı Animasyonu</h2>
-<div align="center">
-  <img src="https://github.com/BerkayArslan/BerkayArslan/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
----
 
 <h2 align="center">💡 İlham</h2>
 <div align="center">
