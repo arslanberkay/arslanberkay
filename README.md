@@ -52,19 +52,16 @@
   <img src="https://img.shields.io/badge/.NET Core-lightgrey?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/ASP.NET Core MVC-blueviolet?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/ASP.NET Core Web API-green?style=for-the-badge" height="40"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=""/>
-  <img src="https://skillicons.dev/icons?i=aspnet" height="40" alt=""/>
-  <img src="https://skillicons.dev/icons?i=webapi" height="40" alt=""/>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="ASP.NET Core Minimal API"/>
-  <img src="https://skillicons.dev/icons?i=ef" height="40" alt="Entity Framework Core"/>
-  <img src="https://skillicons.dev/icons?i=linqpad" height="40" alt="LINQ"/>
-  <img src="https://skillicons.dev/icons?i=netframework" height="40" alt=".NET Framework"/>
+  <img src="https://img.shields.io/badge/ASP.NET Core Minimal API-green?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/Entity Framework Core-orange?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/LINQ-yellowgreen?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/.NET Framework-lightgrey?style=for-the-badge" height="40"/>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap 5"/>
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jQuery"/>
   <img src="https://skillicons.dev/icons?i=fetch" height="40" alt="Fetch API"/>
-  <img src="https://skillicons.dev/icons?i=ajax" height="40" alt="AJAX"/>
+  <img src="https://img.shields.io/badge/AJAX-yellowgreen?style=for-the-badge" height="40"/>
 </p>
 
 <h3>⚙️ Yazılım Mimarisi & Tasarım  </h3>
@@ -73,9 +70,9 @@
   <img src="https://img.shields.io/badge/Design%20Patterns-Repository%2C%20Unit%20Of%20Work%2C%20Mediator-green?style=for-the-badge&logo=dotnet" height="40"/>
   <img src="https://img.shields.io/badge/Katmanlı%20Mimari-Architecture-purple?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/JWT%20%26%20Cookie-Authentication-orange?style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/Role-Based-Authorization-red?style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/RESTful-API-yellow?style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/Agile-Scrum-red?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/Role Based Authorization-red?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/RESTful API-yellow?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/Agile Scrum-red?style=for-the-badge" height="40"/>
 </p>
 
 <h3> 🗄️ Kütüphaneler   </h3>
