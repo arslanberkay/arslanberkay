@@ -4,7 +4,7 @@
 <h1 align="center">Merhaba, Ben Berkay Arslan</h1>
 <h3 align="center">💻 Full-Stack .NET Developer | 🎓 Gazi Matematik Bölüm Birinciliği (GNO : 3.41)  </h3>
 
-<p align="center">
+<p>
 📐 Matematikte edindiğim analitik düşünme ve problem çözme becerilerini yazılım geliştirmeye aktararak bu
  alanda yoluma devam ediyorum. Yeni teknolojilere hızla adapte olabilen, takım çalışmasına yatkın, gelişime
  açık, yenilikçi ve çözüm odaklı bir yazılım geliştiricisiyim.  <br>
