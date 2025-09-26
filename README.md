@@ -9,8 +9,9 @@
  alanda yoluma devam ediyorum. Yeni teknolojilere hızla adapte olabilen, takım çalışmasına yatkın, gelişime
  açık, yenilikçi ve çözüm odaklı bir yazılım geliştiricisiyim.  <br>
   🎯 Hedefim, öğrenerek ve üreterek yazılım dünyasında kendimi daha da ileriye taşımak. <br>
-📫 Bana ulaşın: <b>arslanberkay18@gmail.com</b>
+
 </p>
+<p align="center">📫 Bana ulaşın: <b>arslanberkay18@gmail.com</b> </p>
 
 ---
 
