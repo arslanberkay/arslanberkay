@@ -85,12 +85,6 @@
   <img src="https://img.shields.io/badge/AutoMapper-yellowgreen?style=for-the-badge" height="40"/>
 </p>
 
-
-<h2 align="center">💡 İlham</h2>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=2000&color=0A7C86&center=true&vCenter=true&width=700&lines=Matematikten+Yazılıma+Bir+Yolculuk;Her+bug+%3D+yeni+bir+öğrenme+fırsatı;Sürekli+öğren,+sürekli+geliş" alt="Motivasyon yazısı" />
-</div>
-
 ---
 
 <h2 align="center">📬 Bana Ulaşın</h2>
