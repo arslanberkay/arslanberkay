@@ -1,17 +1,16 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A7C86,100:512BD4&height=140&section=header&text=Berkay%20Arslan&fontColor=ffffff&fontSize=42&fontAlignY=32" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:0A0A0A&height=140&section=header&text=Berkay%20Arslan&fontColor=ffffff&fontSize=42&fontAlignY=32" />
 
-<h1 align="center">Merhaba, Ben Berkay Arslan</h1>
-<h3 align="center">💻 Full-Stack .NET Developer | 🎓 Gazi Matematik Bölüm Birinciliği (GNO : 3.41)  </h3>
+<h1 align="center" style="color:#E0E0E0;">Merhaba, Ben Berkay Arslan</h1>
+<h3 align="center" style="color:#C0C0C0;">💻 Full-Stack .NET Developer | 🎓 Gazi Matematik Bölüm Birincisi (GNO: 3.41)</h3>
 
-<p>
-📐 Matematikte edindiğim analitik düşünme ve problem çözme becerilerini yazılım geliştirmeye aktararak bu
- alanda yoluma devam ediyorum. Yeni teknolojilere hızla adapte olabilen, takım çalışmasına yatkın, gelişime
- açık, yenilikçi ve çözüm odaklı bir yazılım geliştiricisiyim.  <br>
-  🎯 Hedefim, öğrenerek ve üreterek yazılım dünyasında kendimi daha da ileriye taşımak. <br>
-
+<p style="color:#D0D0D0;">
+Gazi Üniversitesi Matematik Bölümü’nü bölüm birincisi olarak tamamladım. Matematik eğitimi bana analitik düşünme, problem çözme, sabır ve disiplinli çalışma alışkanlıkları kazandırdı. Bu güçlü temeli yazılım dünyasında kullanarak öğrenmeye ve üretmeye devam ediyorum.<br><br>
+Yeni teknolojilere hızla adapte olabilen, takım çalışmasına yatkın, gelişime açık ve çözüm odaklı bir yazılım geliştiricisiyim. Hedefim, sahip olduğum analitik bakış açısını modern yazılım teknolojileriyle birleştirerek değer üreten projelere imza atmaktır.<br><br>
+Ayrıca, şu anda Boğaziçi Üniversitesi, ODTÜ, İTÜ ve Marmara Üniversitesi katkılarıyla yürütülen Yapay Zeka eğitimine katılarak kendimi bu alanda da geliştirmekteyim.
 </p>
-<p align="center">📫 Bana ulaşın: <b>arslanberkay18@gmail.com</b> </p>
+
+<p align="center" style="color:#E0E0E0;">📫 Bana ulaşın: <b>arslanberkay18@gmail.com</b></p>
 
 ---
 
