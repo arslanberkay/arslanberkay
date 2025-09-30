@@ -1,7 +1,6 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:0A0A0A&height=140&section=header&text=Berkay%20Arslan&fontColor=ffffff&fontSize=42&fontAlignY=32" />
 
-<h1 align="center" style="color:#E0E0E0;">Merhaba, Ben Berkay Arslan</h1>
 <h3 align="center" style="color:#C0C0C0;">💻 Full-Stack .NET Developer | 🎓 Gazi Matematik Bölüm Birincisi (GNO: 3.41)</h3>
 
 <p style="color:#D0D0D0;">
