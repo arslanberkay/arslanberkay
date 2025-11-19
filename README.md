@@ -9,7 +9,7 @@ Gazi Üniversitesi Matematik Bölümü’nü bölüm birincisi olarak tamamladı
 Yeni teknolojilere hızla adapte olabilen, takım çalışmasına yatkın, gelişime açık ve çözüm odaklı bir yazılım geliştiricisiyim. Hedefim, sahip olduğum analitik bakış açısını modern yazılım teknolojileriyle birleştirerek değer üreten projelere imza atmaktır.<br><br>
 Ayrıca, şu anda Boğaziçi Üniversitesi, ODTÜ, İTÜ ve Marmara Üniversitesi katkılarıyla yürütülen Yapay Zeka eğitimine katılarak kendimi bu alanda da geliştirmekteyim.
 </p>
----
+
 
 <h2 align="left">🛠️ Kullandığım Teknolojiler</h2>
 
