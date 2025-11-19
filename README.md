@@ -7,7 +7,15 @@ Gazi Üniversitesi Matematik Bölümü’nü bölüm birincisi olarak tamamladı
 Yeni teknolojilere hızla adapte olabilen, takım çalışmasına yatkın, gelişime açık ve çözüm odaklı bir yazılım geliştiricisiyim. Hedefim, sahip olduğum analitik bakış açısını modern yazılım teknolojileriyle birleştirerek değer üreten projelere imza atmaktır.<br><br>
 Ayrıca, şu anda Boğaziçi Üniversitesi, ODTÜ, İTÜ ve Marmara Üniversitesi katkılarıyla yürütülen Yapay Zeka eğitimine katılarak kendimi bu alanda da geliştirmekteyim.
 </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arslanberkay&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&count_private=true" height="160" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanberkay&layout=compact&theme=dark&hide_border=true&bg_color=00000000" height="160" alt="languages" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslanberkay&theme=dark&hide_border=true&background=00000000" alt="streak" />
+</div>
 <p align="center" style="color:#E0E0E0;">📫 Bana ulaşın: <b>arslanberkay18@gmail.com</b></p>
 
 ---
@@ -31,7 +39,7 @@ Ayrıca, şu anda Boğaziçi Üniversitesi, ODTÜ, İTÜ ve Marmara Üniversites
 <p>
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,rabbitmq,azure,docker" height="40" alt="Tools"/>
   <br>
-  <img src="https://img.shields.io/badge/SPSS-Data%20Analysis-blue?style=for-the-badge" height="40" style="margin-top:5px;"/>
+  <img src="https://img.shields.io/badge/SPSS-blue?style=for-the-badge" height="40" style="margin-top:5px;"/>
 </p>
 
 <h3>🌐 Teknolojiler ve Uygulama Çatıları </h3>
@@ -72,6 +80,11 @@ Ayrıca, şu anda Boğaziçi Üniversitesi, ODTÜ, İTÜ ve Marmara Üniversites
   <img src="https://img.shields.io/badge/FluentValidation-orange?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/Serilog-blueviolet?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/IMemoryCache-lightgrey?style=for-the-badge" height="40"/>
+</p>
+
+<h3 align="center">🧠 Algoritmik Yetkinlik (LeetCode)</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/arslanberkay?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
