@@ -1,4 +1,3 @@
-<!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:0A0A0A&height=140&section=header&text=Berkay%20Arslan&fontColor=ffffff&fontSize=42&fontAlignY=32" />
 
 <h3 align="center" style="color:#C0C0C0;">💻 Full-Stack .NET Developer | 🎓 Gazi Matematik Bölüm Birincisi (GNO: 3.41)</h3>
@@ -15,72 +14,64 @@ Ayrıca, şu anda Boğaziçi Üniversitesi, ODTÜ, İTÜ ve Marmara Üniversites
 
 <h2 align="left">🛠️ Kullandığım Teknolojiler</h2>
 
-<!-- Backend -->
 <h3>⚙️ Programlama Dilleri</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,python,r" height="40" alt="Languages"/>
 </p>
 
-
-<!-- Database -->
 <h3>🗄️ Veritabanı Teknolojileri </h3>
 <p>
   <img src="https://img.shields.io/badge/MSSQL-red?style=for-the-badge" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis"/>
-  <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" alt="ElasticSearch"/>
+  <img src="https://img.shields.io/badge/T--SQL-grey?style=for-the-badge" height="40"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch" height="40" style="margin-top:5px;" alt="Databases"/>
 </p>
 
-<!-- Tools -->
 <h3>🔧 Araçlar & Platformlar </h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Visual Studio Code"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman"/>
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ"/>
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure DevOps"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,rabbitmq,azure,docker" height="40" alt="Tools"/>
+  <br>
+  <img src="https://img.shields.io/badge/SPSS-Data%20Analysis-blue?style=for-the-badge" height="40" style="margin-top:5px;"/>
 </p>
 
- <h3>🌐 Teknolojiler ve Uygulama Çatıları   </h3>
+<h3>🌐 Teknolojiler ve Uygulama Çatıları </h3>
 <p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" height="40" alt="Frontend"/>
+  <br>
   <img src="https://img.shields.io/badge/.NET Core-lightgrey?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/ASP.NET Core MVC-blueviolet?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/ASP.NET Core Web API-green?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/ASP.NET Core Minimal API-green?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/Entity Framework Core-orange?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/SignalR-REALTIME-181717?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/LINQ-yellowgreen?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/.NET Framework-lightgrey?style=for-the-badge" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap 5"/>
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jQuery"/>
   <img src="https://img.shields.io/badge/Fetch API-red?style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/AJAX-yellowgreen?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" height="40"/>
 </p>
 
-<h3>⚙️ Yazılım Mimarisi & Tasarım  </h3>
+<h3>⚙️ Yazılım Mimarisi & Tasarım </h3>
 <p>
   <img src="https://img.shields.io/badge/OOP-SOLID-blue?style=for-the-badge&logo=dotnet" height="40"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-Onion-purple?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/Design%20Patterns-Repository%2C%20Unit%20Of%20Work%2C%20Mediator-green?style=for-the-badge&logo=dotnet" height="40"/>
-  <img src="https://img.shields.io/badge/Katmanlı%20Mimari-Architecture-purple?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/JWT%20%26%20Cookie-Authentication-orange?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/Role Based Authorization-red?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/RESTful API-yellow?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/Agile Scrum-red?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/AI-LLM%20%26%20Deep%20Learning-black?style=for-the-badge" height="40"/>
 </p>
 
-<h3> 🗄️ Kütüphaneler   </h3>
+<h3> 🗄️ Kütüphaneler & Test </h3>
 <p>
-  <img src="https://img.shields.io/badge/IMemoryCache-lightgrey?style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/Serilog-blueviolet?style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/NLog-green?style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/FluentValidation-orange?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/xUnit-Test-102030?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/Moq-Mocking-blueviolet?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/MediatR-CQRS-green?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/Mapster-Mapping-yellow?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/AutoMapper-yellowgreen?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/FluentValidation-orange?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/Serilog-blueviolet?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/IMemoryCache-lightgrey?style=for-the-badge" height="40"/>
 </p>
 
 ---
@@ -101,4 +92,3 @@ Ayrıca, şu anda Boğaziçi Üniversitesi, ODTÜ, İTÜ ve Marmara Üniversites
 <div align="center">
   <em>"Kod yazmak bir sanat, çözmek bir bilimdir."</em>
 </div>
-
