@@ -5,9 +5,8 @@
 <h3 align="center" style="color:#C0C0C0;">💻 Full-Stack .NET Developer | 🎓 Gazi Matematik Bölüm Birincisi (GNO: 3.41)</h3>
 
 <p style="color:#D0D0D0;">
-Gazi Üniversitesi Matematik Bölümü’nü bölüm birincisi olarak tamamladım. Matematik eğitimi bana analitik düşünme, problem çözme, sabır ve disiplinli çalışma alışkanlıkları kazandırdı. Bu güçlü temeli yazılım dünyasında kullanarak öğrenmeye ve üretmeye devam ediyorum.<br><br>
-Yeni teknolojilere hızla adapte olabilen, takım çalışmasına yatkın, gelişime açık ve çözüm odaklı bir yazılım geliştiricisiyim. Hedefim, sahip olduğum analitik bakış açısını modern yazılım teknolojileriyle birleştirerek değer üreten projelere imza atmaktır.<br><br>
-Ayrıca, şu anda Boğaziçi Üniversitesi, ODTÜ, İTÜ ve Marmara Üniversitesi katkılarıyla yürütülen Yapay Zeka eğitimine katılarak kendimi bu alanda da geliştirmekteyim.
+Matematik temelli analitik bakış açımı modern yazılım ve yapay zeka teknolojileriyle birleştirerek çözümler geliştiren, karmaşık algoritmaları optimize edip sistem verimliliğini maksimize eden bir Full-Stack .NET geliştiricisiyim. SOLID prensiplerine, tasarım kalıplarına ve temiz kod yaklaşımına bağlı; .NET Core ve modern frontend teknolojileriyle ölçeklenebilir ve sürdürülebilir uygulamalar üretiyorum. Yeni teknolojilere hızlı adapte olan, güçlü problem çözme yeteneği ve etkili ekip iş birliğiyle kalite odaklı ve sonuç üreten bir çalışma yaklaşımını benimsiyorum.<br><br>
+Ayrıca, şu anda Boğaziçi Üniversitesi, ODTÜ, İTÜ ve Marmara Üniversitesi tarafından verilen Yapay Zeka eğitimine katılarak kendimi bu alanda da geliştirmekteyim.
 </p>
 
 
