@@ -14,7 +14,7 @@ Ayrıca, şu anda Boğaziçi Üniversitesi, ODTÜ, İTÜ ve Marmara Üniversites
 
 <h3>⚙️ Programlama Dilleri</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,js,ts,python,r" height="40" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,python" height="40" alt="Languages"/>
 </p>
 
 <h3>🗄️ Veritabanı Teknolojileri </h3>
@@ -29,7 +29,7 @@ Ayrıca, şu anda Boğaziçi Üniversitesi, ODTÜ, İTÜ ve Marmara Üniversites
 <p>
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,rabbitmq,azure,docker" height="40" alt="Tools"/>
   <br>
-  <img src="https://img.shields.io/badge/SPSS-blue?style=for-the-badge" height="40" style="margin-top:5px;"/>
+  
 </p>
 
 <h3>🌐 Teknolojiler ve Uygulama Çatıları </h3>
